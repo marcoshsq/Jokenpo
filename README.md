@@ -1,2 +1,1 @@
-# Alura_ONE
- Alura - Oracle Next Education
+# Alura - Oracle Next Education.
