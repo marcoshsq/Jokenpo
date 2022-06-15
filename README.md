@@ -3,6 +3,7 @@
     <img src="https://github.com/marcoshsq/Jokenpo/blob/main/RockPaperScissors.png" alt="sql" height="150" width="150">
   </a>
 </p>
-  <h1 align="center">Pedra, Papel & Tesoura</h1>
+  <h2 align="center">Pedra, Papel & Tesoura</h2>
 </div>
-<br>
+
+---
