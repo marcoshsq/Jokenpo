@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Jokenpo">
-    <img src="" alt="sql" height="150" width="150">
+    <img src="https://github.com/marcoshsq/Jokenpo/blob/main/RockPaperScissors.png" alt="sql" height="150" width="150">
   </a>
 </p>
-  <h1 align="center"></h1>
+  <h1 align="center">Rock, Paper & Scissors</h1>
 </div>
 <br>
